@@ -2,6 +2,8 @@ package com.kerware.simulateur;
 
 public interface ICalculateurImpot {
 
+
+    // coucou les musulmans moi je mange la glace
     public void setRevenusNetDeclarant1( int rn );
     public void setRevenusNetDeclarant2( int rn );
     public void setSituationFamiliale( SituationFamiliale sf );
